@@ -105,12 +105,6 @@ I am an **Electronics and Communication Engineering student** passionate about *
 
 ---
 
-## 🧠 Codolio Profiles Stats
-
-<p align="center">
-  <img src="https://codolio.com/profile/Sounak_Maiti" />
-</p>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
