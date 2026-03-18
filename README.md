@@ -4,6 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sounak%20Maiti&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,12,20&desc=AI%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=60" />
 </p>
 
+<!-- ===================== VISITOR COUNTER ===================== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sounakmaiti123&label=Profile%20Views&color=9D4EDD&style=flat" />
+</p>
+
 <!-- ===================== INTRO ===================== -->
 
 <h1 align="center">Hey 👋 I'm Sounak Maiti</h1>
@@ -24,15 +30,15 @@ I am an **Electronics and Communication Engineering student** passionate about *
 
 💡 I enjoy building:
 
-* 🤖 AI-based intelligent systems
+* 🤖 AI-based systems
 * 🌾 AgriTech platforms (AgriOptima 🚀)
 * 🧠 RAG-based chatbots
 
 ⚡ Currently focused on:
 
 * Advanced **Machine Learning & AI**
-* **Full Stack + Backend Systems**
-* Real-world **project deployment**
+* **Full Stack Development**
+* Real-world **deployment**
 
 ---
 
@@ -44,45 +50,32 @@ I am an **Electronics and Communication Engineering student** passionate about *
 
 ---
 
-## 🚀 Featured Projects
+## 📦 Featured Projects
 
-* 🌾 **AgriOptima** – Smart agriculture platform with crop prediction & market insights
-* 🧠 **RAG Chatbot** – AI-powered chatbot using retrieval augmented generation
-* 🔊 **Gunshot Detection System** – FPGA-based military application
-* 🧾 **MRI Image Denoising** – Image processing with SSIM evaluation
+<p align="center">
+  <a href="https://github.com/sounakmaiti123/AgriOptima">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=AgriOptima&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/sounakmaiti123/RAG-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=RAG-Chatbot&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sounakmaiti123/Gunshot-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=Gunshot-Detection&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/sounakmaiti123/MRI-Denoising">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=MRI-Denoising&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript&theme=dark" />
-</p>
-
-### 🔹 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-</p>
-
-### 🔹 Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
-</p>
-
-### 🔹 Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</p>
-
-### 🔹 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,react,nodejs,express,flask,mongodb,mysql,git,linux,vscode&theme=dark" />
 </p>
 
 ---
@@ -96,10 +89,18 @@ I am an **Electronics and Communication Engineering student** passionate about *
 
 ---
 
-## 📈 Most Used Languages
+## 📈 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sounakmaiti123&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SounakMaiti?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 ---
@@ -112,7 +113,15 @@ I am an **Electronics and Communication Engineering student** passionate about *
 
 ---
 
-## 📊 Contribution Graph
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sounakmaiti123/sounakmaiti123/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📊 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sounakmaiti123&theme=tokyo-night"/>
