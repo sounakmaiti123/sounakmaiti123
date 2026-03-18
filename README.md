@@ -1,32 +1,97 @@
-<h1 align="center">Hi 👋, I'm Sounak Maiti</h1>
-<h3 align="center">A Engineering Student from IEM, Kolkata. Passionate about Software Engineer.</h3>
+<!-- ===================== BANNER ===================== -->
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sounakmaiti123&label=Profile%20views&color=0e75b6&style=flat" alt="sounakmaiti123" /> </p>
-
-- 🌱 I’m currently learning **DSA in C++, OOPS, Web Development**
-
-- 👨‍💻 All of my projects are available at [https://sounaks-tech-canvas.lovable.app/](https://sounaks-tech-canvas.lovable.app/)
-
-- 📫 How to reach me **maitisounak04@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B5wL_b_y5c1-eo-DlQftXUopmGIYKZVj/view?usp=drive_link](https://drive.google.com/file/d/1B5wL_b_y5c1-eo-DlQftXUopmGIYKZVj/view?usp=drive_link)
-
-- ⚡ Fun fact **I think I am a chill guy.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sounak maiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sounak maiti" height="30" width="40" /></a>
-<a href="https://fb.com/sounak maiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sounak maiti" height="30" width="40" /></a>
-<a href="https://instagram.com/sounak_maiti123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sounak_maiti123" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sounak%20Maiti&fontAlign=50&fontAlignY=35&color=gradient&customColorList=6,12,20&desc=AI%20%7C%20ML%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlign=50&descAlignY=55" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+<!-- ===================== INTRO ===================== -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sounakmaiti123&show_icons=true&locale=en&layout=compact" alt="sounakmaiti123" /></p>
+<h1 align="center">Hi 👋, I'm Sounak Maiti</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sounakmaiti123&show_icons=true&locale=en" alt="sounakmaiti123" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;CSE+Student;Building+Real+World+Projects" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sounakmaiti123&" alt="sounakmaiti123" /></p>
+<p align="center">
+  📍 Kolkata, India
+</p>
+
+---
+
+## 🧠 About Me
+
+I am a **Electronics and Communication Engineeirng student** passionate about **Artificial Intelligence, Machine Learning, and Full Stack Development**.
+
+I love building real-world projects like:
+
+* 🤖 AI-based systems
+* 🌾 AgriTech platforms
+* 🧠 RAG-based chatbots
+
+I continuously work on improving my skills in **problem-solving, system design, and modern technologies**. My goal is to create impactful and scalable solutions.
+
+---
+
+<!-- ===================== ENGINEER ANIMATION ===================== -->
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+    width="420"
+  />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript&theme=dark" />
+</p>
+
+### 🔹 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</p>
+
+### 🔹 Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
+</p>
+
+### 🔹 Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</p>
+
+### 🔹 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sounak-maiti-b85449288/?skipRedirect=true" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:maitisounak04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+</p>
