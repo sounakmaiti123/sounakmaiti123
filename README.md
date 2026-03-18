@@ -53,19 +53,19 @@ I am an **Electronics and Communication Engineering student** passionate about *
 ## 📦 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/sounakmaiti123/AgriOptima">
+  <a href="https://github.com/sounakmaiti123/agri-flow-ai-optimise">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=AgriOptima&theme=tokyonight" />
   </a>
-  <a href="https://github.com/sounakmaiti123/RAG-Chatbot">
+  <a href="https://github.com/sounakmaiti123/EduChain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=RAG-Chatbot&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sounakmaiti123/Gunshot-Detection">
+  <a href="https://github.com/sounakmaiti123/Coronary-Artery-Disease-Prediction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=Gunshot-Detection&theme=tokyonight" />
   </a>
-  <a href="https://github.com/sounakmaiti123/MRI-Denoising">
+  <a href="https://github.com/sounakmaiti123/nexus-ai-chatbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=MRI-Denoising&theme=tokyonight" />
   </a>
 </p>
@@ -109,14 +109,6 @@ I am an **Electronics and Communication Engineering student** passionate about *
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sounakmaiti123&theme=onedark&row=1&column=6"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sounakmaiti123/sounakmaiti123/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
