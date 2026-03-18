@@ -54,19 +54,19 @@ I am an **Electronics and Communication Engineering student** passionate about *
 
 <p align="center">
   <a href="https://github.com/sounakmaiti123/agri-flow-ai-optimise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=AgriOptima&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=agri-flow-ai-optimise&theme=tokyonight" />
   </a>
   <a href="https://github.com/sounakmaiti123/EduChain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=RAG-Chatbot&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=EduChain&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/sounakmaiti123/Coronary-Artery-Disease-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=Gunshot-Detection&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=Coronary-Artery-Disease-Prediction&theme=tokyonight" />
   </a>
   <a href="https://github.com/sounakmaiti123/nexus-ai-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=MRI-Denoising&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakmaiti123&repo=nexus-ai-chatbot&theme=tokyonight" />
   </a>
 </p>
 
